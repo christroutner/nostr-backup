@@ -1,0 +1,19 @@
+{
+  "name": "nostr-backup",
+  "version": "1.0.0",
+  "description": "This is an experiement is building a backup script for Nostr. Here is the idea behind this repo:",
+  "main": "nostr-backup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "standard --env mocha --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christroutner/nostr-backup.git"
+  },
+  "author": "Chris Troutner <chris.troutner@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "17.0.0"
+  }
+}
