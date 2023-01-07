@@ -17,7 +17,8 @@
     "standard": "17.0.0"
   },
   "dependencies": {
-    "nostr": "^0.2.7",
-    "nostr-tools": "1.1.1"
+    "nostr": "0.2.7",
+    "nostr-tools": "../nostr-tools",
+    "ws": "8.11.0"
   }
 }
